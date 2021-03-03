@@ -1,2 +1,2 @@
 # SampleProject
- Sample about Spring Security
+ SampleProject
